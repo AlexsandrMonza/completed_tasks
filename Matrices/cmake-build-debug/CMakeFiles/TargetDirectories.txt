@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/Task 3. Matrices/cmake-build-debug/CMakeFiles/Task_3__Matrices.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 3. Matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 3. Matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir

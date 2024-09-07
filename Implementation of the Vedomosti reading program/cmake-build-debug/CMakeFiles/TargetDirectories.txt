@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/Task 3. Implementation of the Vedomosti reading program/cmake-build-debug/CMakeFiles/Task_3__Implementation_of_the_Vedomosti_reading_program.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 3. Implementation of the Vedomosti reading program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 3. Implementation of the Vedomosti reading program/cmake-build-debug/CMakeFiles/rebuild_cache.dir

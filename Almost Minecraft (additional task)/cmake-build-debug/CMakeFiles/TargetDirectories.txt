@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/Task 7. Almost Minecraft (additional task)/cmake-build-debug/CMakeFiles/Task_7__Almost_Minecraft__additional_task_.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 7. Almost Minecraft (additional task)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 7. Almost Minecraft (additional task)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

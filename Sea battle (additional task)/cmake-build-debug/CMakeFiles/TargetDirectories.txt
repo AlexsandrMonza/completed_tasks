@@ -1,0 +1,3 @@
+D:/Programms C++/14 модуль. Двумерные массивы и алгоритмы над ними/Практическая/Task 8. Sea battle (additional task)/cmake-build-debug/CMakeFiles/Task_8__Sea_battle__additional_task_.dir
+D:/Programms C++/14 модуль. Двумерные массивы и алгоритмы над ними/Практическая/Task 8. Sea battle (additional task)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programms C++/14 модуль. Двумерные массивы и алгоритмы над ними/Практическая/Task 8. Sea battle (additional task)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

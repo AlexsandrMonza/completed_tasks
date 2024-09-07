@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/Task 5. Smart home/cmake-build-debug/CMakeFiles/Task_5__Smart_home.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 5. Smart home/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 5. Smart home/cmake-build-debug/CMakeFiles/rebuild_cache.dir

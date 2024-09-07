@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/Task 1. Banquet table/cmake-build-debug/CMakeFiles/Task_1__Banquet_table.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 1. Banquet table/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 1. Banquet table/cmake-build-debug/CMakeFiles/rebuild_cache.dir

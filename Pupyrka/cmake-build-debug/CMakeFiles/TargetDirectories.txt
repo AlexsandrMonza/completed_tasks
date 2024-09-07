@@ -1,0 +1,3 @@
+D:/Программирование С++/14 модуль. Двумерные массивы и алгоритмы над ними/Практическая/Task 5. Pupyrka/cmake-build-debug/CMakeFiles/Task_5__Pupyrka.dir
+D:/Программирование С++/14 модуль. Двумерные массивы и алгоритмы над ними/Практическая/Task 5. Pupyrka/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Программирование С++/14 модуль. Двумерные массивы и алгоритмы над ними/Практическая/Task 5. Pupyrka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

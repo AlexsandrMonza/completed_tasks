@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Task_5__Implementation_of_the_game_What_Where_When)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Task_5__Implementation_of_the_game_What_Where_When main.cpp)
