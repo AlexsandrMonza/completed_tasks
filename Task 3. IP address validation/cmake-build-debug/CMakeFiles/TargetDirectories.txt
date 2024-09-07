@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/Задание 3. Валидация IP-адреса/cmake-build-debug/CMakeFiles/_3___IP_.dir
+C:/Users/Alexsandr Makhov/Desktop/Задание 3. Валидация IP-адреса/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/Задание 3. Валидация IP-адреса/cmake-build-debug/CMakeFiles/rebuild_cache.dir

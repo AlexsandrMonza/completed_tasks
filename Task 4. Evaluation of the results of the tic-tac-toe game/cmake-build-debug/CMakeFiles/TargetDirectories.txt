@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/quest 4/cmake-build-debug/CMakeFiles/_4_______.dir
+C:/Users/Alexsandr Makhov/Desktop/quest 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/quest 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
