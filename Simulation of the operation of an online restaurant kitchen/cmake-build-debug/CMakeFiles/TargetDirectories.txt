@@ -1,0 +1,3 @@
+C:/Users/Alexsandr/Desktop/Task 3 Simulation of the operation of an online restaurant kitchen/cmake-build-debug/CMakeFiles/Task_3_Simulation_of_the_operation_of_an_online_restaurant_kitchen.dir
+C:/Users/Alexsandr/Desktop/Task 3 Simulation of the operation of an online restaurant kitchen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr/Desktop/Task 3 Simulation of the operation of an online restaurant kitchen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
