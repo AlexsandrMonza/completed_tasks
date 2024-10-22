@@ -1,0 +1,20 @@
+# ninja log v5
+300	355	7045478401591584	Practical2.exe	85c58eef67cc37f7
+5	969	7474110464139148	src/CMakeFiles/Practical2.dir/main.cpp.obj	2bca27c1560bd77d
+1	69	7474112412415527	build.ninja	8cf01033c8c4a8a0
+969	1030	7474110464732621	src/Practical2.exe	ad4929dbba0f5be4
+3	270	7045657057781857	src/CMakeFiles/Practical2.dir/my_display.cpp.obj	3f5f9c443a0ba545
+4	307	7045655573027644	src/CMakeFiles/Practical2.dir/my_input.cpp.obj	9b7ea6dec2775726
+2	957	7474110464009497	src/CMakeFiles/Practical2.dir/gpu.cpp.obj	4cb045e5baccea41
+2	262	7045666067914282	src/CMakeFiles/Practical2.dir/my_sum.cpp.obj	9cddfa8ac25de0ce
+4	951	7474110457612697	src/CMakeFiles/Practical2.dir/kbd.cpp.obj	320be8bbdad61831
+7	957	7474110464009497	src/CMakeFiles/Practical2.dir/cpu.cpp.obj	fa35e4c490446c3
+6	968	7474110464119206	src/CMakeFiles/Practical2.dir/disk.cpp.obj	b2260b229029e9af
+3	48	7474110454919894	src/CMakeFiles/Practical2.dir/ram.cpp.obj	1a7e2cadf7d890ac
+5	52	7474112454945124	src/CMakeFiles/Practical2.dir/ram.cpp.obj	e216feeafc5d040f
+3	362	7474112458046836	src/CMakeFiles/Practical2.dir/kbd.cpp.obj	bfb86e410f774932
+8	385	7474112458276224	src/CMakeFiles/Practical2.dir/cpu.cpp.obj	1d62c96c70573848
+7	405	7474112458475696	src/CMakeFiles/Practical2.dir/gpu.cpp.obj	2e005a658b64d84f
+6	409	7474112458515574	src/CMakeFiles/Practical2.dir/disk.cpp.obj	7b24ac7c5326b967
+4	423	7474112458655205	src/CMakeFiles/Practical2.dir/main.cpp.obj	a03959cf03a02e2c
+423	498	7474112459393222	src/Practical2.exe	ad4929dbba0f5be4

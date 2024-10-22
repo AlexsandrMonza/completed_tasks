@@ -1,0 +1,5 @@
+D:/Programms C++/25. Структура проекта/Practical/Task 2. Computer simulator project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programms C++/25. Структура проекта/Practical/Task 2. Computer simulator project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programms C++/25. Структура проекта/Practical/Task 2. Computer simulator project/cmake-build-debug/src/CMakeFiles/Practical2.dir
+D:/Programms C++/25. Структура проекта/Practical/Task 2. Computer simulator project/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/Programms C++/25. Структура проекта/Practical/Task 2. Computer simulator project/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

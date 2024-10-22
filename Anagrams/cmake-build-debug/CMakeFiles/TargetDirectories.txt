@@ -1,0 +1,3 @@
+C:/Users/Alexsandr/Desktop/Task 3. Anagrams/cmake-build-debug/CMakeFiles/Task_3__Anagrams.dir
+C:/Users/Alexsandr/Desktop/Task 3. Anagrams/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr/Desktop/Task 3. Anagrams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Alexsandr Makhov/Desktop/Task 2. data model for the village/cmake-build-debug/CMakeFiles/Task_2__data_model_for_the_village.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 2. data model for the village/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr Makhov/Desktop/Task 2. data model for the village/cmake-build-debug/CMakeFiles/rebuild_cache.dir
